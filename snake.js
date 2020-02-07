@@ -143,7 +143,7 @@ function draw(){
     ctx.fillText(score,2*box,1.6*box);
 }
 
-let game = setInterval(draw,200);
+let game = setInterval(draw,400);
 
 
 
